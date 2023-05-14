@@ -1,7 +1,7 @@
 
 ----
 ### <p align="center">This project is outdated/patched/DISCONTINUED</p>
-### <p align="center">This was my very very old project and its useless so i decided to share the source code of it ( theres missing parts that i didnt found it )</p>
+### <p align="center">This was my very very old project and its useless so i decided to share the source code of it ( theres missing parts that i didnt find them )</p>
 ### <p align="center">feel free to decompile it and try to fix it</p>
 <br><br>
 <p align="center">
